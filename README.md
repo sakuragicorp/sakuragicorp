@@ -97,7 +97,9 @@ https://sakuragicorp.com/
 
 ## ■ Contact
 
-お問い合わせは、公式サイトよりお願いいたします。  
-For inquiries, please contact us through the official website.
+IT・ネットワークやDXに関するご相談はお気軽にお問い合わせください。  
+For any IT or DX-related inquiries, feel free to contact us.
+
+https://sakuragicorp.com/
 
 https://sakuragicorp.com/

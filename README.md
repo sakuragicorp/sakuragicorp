@@ -102,4 +102,3 @@ For any IT or DX-related inquiries, feel free to contact us.
 
 https://sakuragicorp.com/
 
-https://sakuragicorp.com/

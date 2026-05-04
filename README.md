@@ -1,5 +1,8 @@
 # 桜木商事 / Sakuragi Corp
 
+> Practical IT & DX solutions for businesses  
+> 現場経験ベースの実践的IT・DX支援
+
 IT・ネットワーク / DX支援 / 多言語対応  
 Industrial Networking / DX Solutions / Multilingual Support  
 JP / EN / CN
@@ -9,9 +12,12 @@ JP / EN / CN
 ## ■ 概要 / Overview
 
 桜木商事は、IT・ネットワークおよびDX支援を行うサービスです。  
-現場経験をもとに、実践的なITサポートを提供しています。
+現場経験をもとに、実践的で分かりやすいITサポートを提供しています。
 
-Sakuragi Corp provides practical IT and DX solutions based on real-world experience.
+中小企業・個人事業主向けのIT支援を中心に対応しています。
+
+Sakuragi Corp provides practical IT and DX solutions based on real-world experience.  
+Focused on supporting small and medium-sized businesses.
 
 ---
 
@@ -31,17 +37,37 @@ Sakuragi Corp provides practical IT and DX solutions based on real-world experie
 
 ---
 
+## ■ 対応領域 / Experience
+
+・ネットワークトラブル対応  
+・Wi-Fi環境改善  
+・IT業務効率化支援  
+・DX導入サポート  
+・CRM導入・業務整理支援  
+・多言語コンテンツ対応  
+
+- Network troubleshooting  
+- Wi-Fi environment improvement  
+- IT workflow improvement  
+- DX implementation support  
+- CRM setup and business process support  
+- Multilingual content support  
+
+---
+
 ## ■ 強み / Strengths
 
 ・現場経験に基づく実践的なIT支援  
 ・中小企業向けの分かりやすいDXサポート  
 ・日本語・英語・中国語での対応  
 ・技術内容を分かりやすく整理・説明  
+・Web・動画・IT発信との連携  
 
 - Practical IT support based on real-world experience  
 - Easy-to-understand DX support for small and medium-sized businesses  
 - Support in Japanese, English, and Chinese  
 - Clear explanation of technical topics  
+- Integration with web, video, and IT content  
 
 ---
 
